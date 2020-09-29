@@ -10,8 +10,12 @@ Menggunakan library pyTube3 dan requests untuk export subtitles dari video menja
 # 2. Emotion Analysis
 
 Batch file yang berisis subtitle akan dianalisa.
+
 a. Preprocess dataset
+
 b. LSVM dari SGDClassifier menggunakan library sklearn
+
 c. Melakukan kategorisasi 'emotions'
+
 d. Check metrics
 
