@@ -19,3 +19,5 @@ c. Melakukan kategorisasi 'emotions'
 
 d. Check metrics
 
+
+(Run Sentiment Analysis.py)
